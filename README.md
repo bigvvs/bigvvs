@@ -5,4 +5,4 @@
 -->
 
 - 🔭 I’m currently working on Red Rocks Roleplay and I Dont Smoke RP
-- 🌱 I’m currently learning lua, html, css, js, react and ts
+- 🌱 I’m currently learning lua, react and ts
