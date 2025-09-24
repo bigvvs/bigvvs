@@ -5,6 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Miami Life Rp,  I Dont Smoke RP and Red Rocks Roleplay
+- .gg/redrocksrp, .gg/idontsmokerp
 <!--
 - 🌱 I’m currently learning lua, react and ts
 -->
