@@ -22,18 +22,4 @@
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigvvs&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigvvs&theme=tokyonight">
-</p>
-
----
-
-### 📫 Contact
-💬 Hit me up in any of the Discords above  
-
----
-
 🔥 *Building the next level of RP experiences...*
