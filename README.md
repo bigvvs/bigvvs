@@ -1,11 +1,39 @@
-## Hi there 👋
+## 👋 Hi there, I'm BigVvs
 
-<!--
-**bigvvs/bigvvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=FiveM+Developer;QBCore+Specialist;Script+Creator;Always+Building+🔥&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on Down South RP, I Dont Smoke, Hostile Environment RP and Hazy Horizon RP
-- .gg/downsouthrp, .gg/idontsmokerp and .gg/herp308, .gg/pxPAEQqMF4
-<!--
-- 
--->
+---
+
+### 🔧 Current Projects
+- 🎰 High Rollers RP  
+- 🚭 I Don’t Smoke RP  
+- ⚠️ Hostile Environment RP  
+- 🌫️ Hazy Horizon RP  
+
+---
+
+### 🌐 Communities
+- 🔗 https://discord.gg/highrollersrp  
+- 🔗 https://discord.gg/idontsmokerp  
+- 🔗 https://discord.gg/herp308  
+- 🔗 https://discord.gg/hazyhorizon  
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigvvs&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigvvs&theme=tokyonight">
+</p>
+
+---
+
+### 📫 Contact
+💬 Hit me up in any of the Discords above  
+
+---
+
+🔥 *Building the next level of RP experiences...*
